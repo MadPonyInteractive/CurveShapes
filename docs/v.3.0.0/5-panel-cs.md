@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panel: Curve Shape
+title: Panel - Curve Shape
 parent: V.3.0.0
 nav_order: 5
 ---

@@ -25,6 +25,8 @@ When annotations are drawn on the viewport, calling the 'Curve Shapes Pie Menu' 
 ## Method 3: Selecting an existing curve object
 When you have a curve object selected, calling the 'Curve Shapes Pie Menu' will allow you to create a curve shape mesh controlled by the selected curve object.
 
+***
+
 # Editing Curve Shapes
 Selecting a curve or mesh object will display the Curve Shape panels.
 

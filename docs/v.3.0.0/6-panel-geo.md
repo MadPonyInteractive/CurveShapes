@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panel: Curve Shape Geometry
+title: Panel - Curve Shape Geometry
 parent: V.3.0.0
 nav_order: 6
 ---
