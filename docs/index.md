@@ -14,9 +14,6 @@ nav_order: 0
 
 ***
 
-![LOGO](https://github.com/MadPonyInteractive/CurveShapes/assets/30872066/7c02a794-04df-4336-861f-a56b6dd8e051)
-
-
 The initial aim of this project is to provide PyQt/PySide widgets to aid on daw type projects.
 
 The project is build using PySide but can easily be ported to PyQt by editing main.py imports.
