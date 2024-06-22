@@ -1,17 +1,30 @@
+$grey-dk-000: #959396 !default;
+$grey-dk-200: #44434d !default;
+$grey-dk-250: #302d36 !default;
+$grey-dk-300: #27262b !default;
+
+
+$grey-lt-300: #3a383b !default;
+$grey-dk-100: #cdcdcd;
+$yellow-000: #5C3D2E;
+$yellow-200: #E0C097;
+$yellow-300: #cf871c;
+
+
 $body-background-color: $grey-dk-300;
 $sidebar-color: $grey-dk-300;
 $border-color: $grey-dk-200;
 
 $body-text-color: $grey-lt-300;
-$body-heading-color: $green-300;
+$body-heading-color: $yellow-200;
 $nav-child-link-color: $grey-dk-000;
 $search-result-preview-color: $grey-dk-000;
 
-$link-color: $green-100;
-$btn-primary-color: $green-200;
+$link-color: $yellow-300;
+$btn-primary-color: $yellow-000;
 $base-button-color: $grey-dk-250;
 
-$code-background-color: $grey-dk-250;
+$code-background-color: $grey-dk-100;
 $search-background-color: $grey-dk-250;
 $table-background-color: $grey-dk-250;
 $feedback-color: darken($sidebar-color, 3%);
