@@ -10,7 +10,9 @@ nav_order: 2
 ### Step 1: Download the Extension
 After purchasing the extension, you will be presented with download links for different versions of the extension. 
 
-#### -> Download version **V.3.0.0** 
+#### Download the latest version **V.3.0.?** 
+This can be V.3.0.1, V.3.0.2, etc.
+The last number represents bug fixes and improvements.
 
 ### Step 2: Install the Extension
 1. Open Blender
