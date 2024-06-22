@@ -1,0 +1,19 @@
+title: [Curve Shapes]
+description: [Curve Shapes is a Blender extension that allows you to control geometry with curves.]
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "mpi"
+
+# Aux links for the upper right navigation
+aux_links:
+  "DawTools on GitHub":
+    - "//github.com/MadPonyInteractive/CurveShapes"
+
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+search:
+  # Split pages into sections that can be searched individually
+  # Supports 1 - 6, default: 2
+  heading_level: 3
