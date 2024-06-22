@@ -4,11 +4,6 @@ title: Home
 nav_order: 0
 ---
 
-# Under Construction
-## This Documentation is a work in progress
-### Please come back later
-#### Thank you 
-
 # Curve Shapes
 ### Blender Extension for manipulating geometry with curves
 
@@ -18,3 +13,6 @@ nav_order: 0
 - Easy to use
 - Create complex shapes with ease
 - Manipulate geometry with curves
+
+### Purchase @ [Blender Market](https://www.blendermarket.com/products/curve-shapes) | [Gumroad](https://mad-pony-interactive.gumroad.com/l/zttlm)
+
