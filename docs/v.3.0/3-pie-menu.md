@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pie Menu
-parent: V.3.0.0
+parent: V.3.0
 nav_order: 3
 ---
 

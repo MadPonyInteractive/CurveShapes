@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Panel - Curve Shape
-parent: V.3.0.0
+parent: V.3.0
 nav_order: 5
 ---
 
@@ -40,7 +40,7 @@ This button will update the mesh object with the latest changes made to the curv
 
 ***
 
-When the `Edit Curve` button is pressed, the curve object will be selected and the user will be taken to the curve object's edit mode.
+When the `Edit Curve` button is pressed, the curve object will be selected and the you will be taken to the curve object's edit mode.
 
 In this mode, you will have one more button available: `Auto Update Mesh`. This button will enable the automatic update of the mesh object while editing splines. 
 

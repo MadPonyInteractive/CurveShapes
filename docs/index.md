@@ -17,10 +17,10 @@ The curve object is used to control the shape of the mesh object.
 
 This allows you to create complex shapes with ease and precision using bezier curves.
 
-## Features
-- Easy to use
-- Create complex shapes with ease
-- Manipulate geometry with curves
+
+
+***
+
+### [Bug reports ](https://github.com/MadPonyInteractive/CurveShapes/issues) | [Suggestions](https://github.com/MadPonyInteractive/CurveShapes/discussions)
 
 ### Purchase @ [Blender Market](https://www.blendermarket.com/products/curve-shapes) | [Gumroad](https://mad-pony-interactive.gumroad.com/l/zttlm)
-
