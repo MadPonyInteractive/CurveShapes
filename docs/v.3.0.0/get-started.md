@@ -19,7 +19,7 @@ Curve Shapes comes with a contextual pie menu that displays different options de
 #### ! Changing the Pie Menu Shortcut Key
 To change the pie menu shortcut key, go to Preferences > Keymap and write `curve shapes` in the search bar. You can then change the shortcut key to your preference.
 
-<!-- ![alt text](../assets/Shortcuts.gif) -->
+![Pie Menu Shortcut](../assets/Shortcuts.gif)
 
 ## Adding Curve Shapes
 ### Method 1: Using the add menu
