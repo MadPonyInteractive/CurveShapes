@@ -32,4 +32,8 @@ Selecting a curve or mesh object will display the Curve Shape panels.
 
 With a curve or mesh object selected, go to the Edit tab in the N-panel to access the different Curve Shapes panels.
 
-The [Panel: Curve Shape](5-panel-cs.md) is where you can setup the link between the mesh and the curve object.
+![Edit Panel](../assets/N_panel.png)
+
+*! To view the N-panel press N*
+
+The [Curve Shape Panel](5-panel-cs.md), is where you can setup the link between the mesh and the curve object.
