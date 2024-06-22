@@ -6,4 +6,6 @@ has_children: true
 ---
 
 # Curve Shapes Version 3.0.0 
-## Blender Version 4.2
+
+## Supported Blender versions
+* Blender Version 4.2
