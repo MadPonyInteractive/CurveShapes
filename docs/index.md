@@ -14,6 +14,7 @@ nav_order: 0
 
 ***
 
+
 The initial aim of this project is to provide PyQt/PySide widgets to aid on daw type projects.
 
 The project is build using PySide but can easily be ported to PyQt by editing main.py imports.
