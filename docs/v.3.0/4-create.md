@@ -12,8 +12,13 @@ You can use a pre-made template by adding a curve shape from the add menu.
 1. Click on the add menu or press Shift+A to display it.
 2. Got to the Curve submenu and look for the curve shape templates.
 
-Current templates available are:
-- Plane
+### Current templates available are:
+#### Cs Plane
+A plane created from 2 Polyline splines
+#### Cs Surface
+A surface created from 2 Bezier splines
+#### Cs Circle
+A circular shape created from 4 Bezier splines
 
 ## Method 2: Using Annotations
 When annotations are drawn on the viewport, calling the 'Curve Shapes Pie Menu' will allow you to create curve shapes from the annotations.
