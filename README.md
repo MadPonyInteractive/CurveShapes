@@ -18,8 +18,8 @@ This allows you to create complex shapes with ease using bezier curves.
 
 ***
 
-## [Docummentation site]("https://madponyinteractive.github.io/CurveShapes/")
-This repository contains the [documentation]("https://madponyinteractive.github.io/CurveShapes/") for the Curve Shapes Blender extension. And can be used for suggestions, bug reports and support.
+## [Docummentation site](https://madponyinteractive.github.io/CurveShapes/)
+This repository contains the [documentation](https://madponyinteractive.github.io/CurveShapes/) for the Curve Shapes Blender extension. And can be used for suggestions, bug reports and support.
 
 ***
 
