@@ -42,8 +42,10 @@ This button will update the mesh object with the latest changes made to the curv
 
 When the `Edit Curve` button is pressed, the curve object will be selected and the you will be taken to the curve object's edit mode.
 
+![edit_cs](../assets/edit_cs.gif)
+
 In this mode, you will have one more button available: `Auto Update Mesh`. This button will enable the automatic update of the mesh object while editing splines. 
 
 ![cs_panel_update](../assets/cs_panel_update.png)
 
-*! This feature is still experimental and will get laggy when using a lot of splines and geometry.*
+*! This feature is still experimental and will get laggy when using a lot of splines and/or edges.*
