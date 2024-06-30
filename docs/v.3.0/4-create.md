@@ -8,10 +8,10 @@ nav_order: 4
 # Adding Curve Shapes
 ## Method 1: Using the add menu
 You can use a pre-made template by adding a curve shape from the add menu.
-| These should help you understand how to create your own curve shapes. 
+These should help you understand how to create your own curve shapes. 
 ![add_menu](../assets/add_menu.png)
 1. Click on the add menu or press Shift+A to display it.
-2. Got to the Curve submenu and look for the curve shape templates.
+2. Go to the Curve submenu and look for the curve shape templates.
 
 ### Current templates available are:
 #### Cs Circle
