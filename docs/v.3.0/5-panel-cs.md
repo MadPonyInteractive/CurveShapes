@@ -7,6 +7,9 @@ nav_order: 5
 
 # Panel: Curve Shape
 Curve Shape is the first panel. Here you can define winch curve object will control winch mesh object.
+Most of the time you wont need to use this panel, as you can access the same options from the pie menu.
+
+The only time you will need to use this panel is when you want to change the control curve object or the controlled mesh object.
 
 ## When a mesh object is selected
 The panel will display the curve object that is controlling the mesh object (if any).
@@ -28,19 +31,11 @@ You can change the mesh object by selecting a different mesh object from the dro
 
 ***
 
-The `Edit Curve` button will take you to the curve object's edit mode.
+The `Edit Curve` button will take you to the curve object's edit mode and a operator properties box will appear allowing you to choose if you should use the `Auto Update Mesh` functionality.
 
-The `Create Surface` button will create a brand new mesh object from the selected curve object.
+![edit_op](../assets/edit_op.png)
 
-When a mesh object is associated with a curve object, the `Create Surface` button will change to `Update Surface`. 
-
-![cs_panel_curve](../assets/cs_panel_curve_update.png)
-
-This button will update the mesh object with the latest changes made to the curve object.
-
-***
-
-When the `Edit Curve` button is pressed, the curve object will be selected and the you will be taken to the curve object's edit mode.
+#### This can also be done by using the `Edit Curve` option in the pie menu or the context menu.
 
 ![edit_cs](../assets/edit_cs.gif)
 
@@ -49,3 +44,17 @@ In this mode, you will have one more button available: `Auto Update Mesh`. This 
 ![cs_panel_update](../assets/cs_panel_update.png)
 
 *! This feature is still experimental and will get laggy when using a lot of splines and/or edges.*
+
+***
+
+The `Create Mesh` button will create a brand new mesh object from the selected curve object.
+
+#### This can also be done by using the `Create Mesh` option in the pie menu.
+
+
+When a mesh object is associated with a curve object, the `Create Mesh` button will change to `Update Mesh`. 
+
+![cs_panel_curve](../assets/cs_panel_curve_update.png)
+
+This button will update the mesh object with the latest changes made to the curve object.
+

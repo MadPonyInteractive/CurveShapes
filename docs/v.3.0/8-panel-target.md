@@ -10,6 +10,9 @@ When joining your Curve Shape to a mesh object, you have different options to ch
 
 ![target](../assets/target.png)
 
+- `Target`: The target object that the curve shape will be joined to.
+***This field is filled automatically when a curve shape is created from annotations and you have a mesh object selected.***
+
 - `Shrinkwrap Project`: Useful for projecting the curve shape onto a mesh with a Multires modifier. 
 
 - `Boolean`: Useful for creating a boolean operation between the curve shape and the target mesh.
