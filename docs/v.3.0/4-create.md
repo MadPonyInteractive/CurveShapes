@@ -58,4 +58,6 @@ With a curve or mesh object selected, go to the Edit tab in the N-panel to acces
 
 *! To view the N-panel press N*
 
-The [Curve Shape Panel](5-panel-cs.md), is where you can setup the link between the mesh and the curve object.
+#### ***These panels are also accessible via the pie menu!***
+
+The [Curve Shape](5-panel-cs.md) Panel, is where you can setup the link between the mesh and the curve object.
