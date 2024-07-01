@@ -68,11 +68,9 @@ Pressing this button will display 2 sliders that will allow you to define the be
 
 ![bevel_mod_b](../assets/bevel_mod_b.png)
 
-The 'Splines' will overwrite the 'Boundary' value if it is set to a value different than 0.
-
 
 ## Subdivision
-The subdivision modifier is the cherry on top of the cake. It will smooth the mesh and make it look more organic.
+The subdivision modifier is the cherry on top of the cake. It will smooth the mesh and make it look more organic. It does this by adding more geometry to the mesh.
 
 ![subd_mod](../assets/subd_mod.png)
 
