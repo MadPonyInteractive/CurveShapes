@@ -66,7 +66,7 @@ Notice we have a `Weights` button!
 
 Pressing this button will display 2 sliders that will allow you to define the bevel weight for the generated boundary edges ***(not available on closed geometry)*** and for the edges on top of the splines.
 
-` Only available for Blender 4.0 and over -> (Boundary and Splines sliders) `
+`Only available for Blender 4.0 and over -> (Boundary and Splines sliders)`
 
 ![bevel_mod_b](../assets/bevel_mod_b.png)
 
@@ -84,7 +84,7 @@ This slider will determine the crease amount for the generated boundary edges.
 ### Splines
 This slider will determine the crease amount for the edges on top of the splines.
 
-`   `
+`Only available for Blender 4.0 and over -> (Boundary and Splines sliders)`
 
 ### Inner Crease | Outer Crease | Rim Crease
 These sliders come from the solidify modifier. When not using the solidify modifier, these sliders will not display.
