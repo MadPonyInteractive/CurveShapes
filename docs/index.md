@@ -11,7 +11,15 @@ nav_order: 0
 />](https://www.youtube.com/embed/B26cHAafp8s)
 
 
-***Curve Shapes*** is a Blender extension that allows you to manipulate geometry with curves. It is a powerful tool that can be used to create complex shapes with ease. It offers several ways to create geometry from curves including 
+***Curve Shapes*** is a Blender extension that allows you to manipulate geometry with curves. 
+
+Create clean topology using Bezier and Poly curves. 
+
+Use your curves to control the generated mesh in real time. 
+
+***
+
+Curve Shapes offers several ways to create geometry from curves including 
 * Curve shape from Blender curve
 * Curve shape from Annotations
 * And existing curve shape templates
