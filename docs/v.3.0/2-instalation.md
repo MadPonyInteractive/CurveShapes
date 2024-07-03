@@ -14,6 +14,8 @@ After purchasing the extension/addon, you will be presented with download links 
 This can be V.3.0.1, V.3.0.2, etc.
 The last number represents bug fixes and improvements.
 
+***
+
 ### Step 2: Install Extension (Blender 4.2 and above)
 1. Open Blender
 2. Drag and drop the downloaded file into the Blender window
