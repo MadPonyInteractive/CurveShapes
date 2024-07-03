@@ -24,7 +24,7 @@ Curve Shapes offers several ways to create geometry from curves including
 * Curve shape from Annotations
 * And existing curve shape templates
 
-![AnnToCs2](assets/AnnToCs.gif)
+![AnnToCs2](assets/rec1.gif)
 
 ### In blender, a Curve Shape is composed of 2 objects: 
 * A curve object 
@@ -34,6 +34,7 @@ The curve object is used to control the shape of the mesh object.
 
 This allows you to create complex shapes with ease using bezier curves.
 
+![AnnToCs3](assets/rec2.gif)
 ***
 
 ### [Bug reports ](https://github.com/MadPonyInteractive/CurveShapes/issues) | [Suggestions](https://github.com/MadPonyInteractive/CurveShapes/discussions)
