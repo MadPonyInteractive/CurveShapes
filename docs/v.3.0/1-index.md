@@ -14,3 +14,9 @@ has_children: true
 * Blender Version 3.6 ([with some limitations](7-panel-mods.md#bevel))
 
 
+*** 
+
+### Check out the video tutorial for Curve Shapes V.3.0
+
+[<img src="../assets/Tutorial.V3.0.png" width="600" height="300"
+/>](https://www.youtube.com/watch?v=zF7jGvS3Y3U)
