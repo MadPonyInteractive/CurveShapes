@@ -6,5 +6,5 @@ nav_order: 9
 ---
 
 ## Release log for V.3.0.1
-
-Nothind to show here yet.
+* Added backawards compatibility for blender 3.1 to 3.5
+* Fixed bug for the join operation

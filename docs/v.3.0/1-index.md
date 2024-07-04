@@ -11,7 +11,15 @@ has_children: true
 * Blender Version 4.2 
 * Blender Version 4.1
 * Blender Version 4.0
-* Blender Version 3.6 ([with some limitations](7-panel-mods.md#bevel))
+* Blender Versions 3.6 and 3.5 ( limitations * )
+* Blender Version 3.4, 3.3, 3.2 and 3.1 ( limitations * @ )
+
+
+#### Limitations for Blender Versions under 4.0
+```
+* Bevel and Crease for boundary and splines not supported
+@ Modifiers are not added in order
+```
 
 
 *** 
