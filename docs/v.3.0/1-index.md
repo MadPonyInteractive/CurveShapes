@@ -11,7 +11,10 @@ has_children: true
 * Blender Version 4.2 
 * Blender Version 4.1
 * Blender Version 4.0
-* Blender Versions 3.6 and 3.5 ( limitations * )
+* Blender Versions 3.6 ( limitations * )
+
+#### From update V.3.0.1 the following are also supported
+* Blender Versions 3.5 ( limitations * )
 * Blender Version 3.4, 3.3, 3.2 and 3.1 ( limitations * @ )
 
 
