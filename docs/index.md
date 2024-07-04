@@ -39,4 +39,4 @@ This allows you to create complex shapes with ease using bezier curves.
 
 ### [Bug reports ](https://github.com/MadPonyInteractive/CurveShapes/issues) | [Suggestions](https://github.com/MadPonyInteractive/CurveShapes/discussions)
 
-### Purchase @ [Blender Market](https://www.blendermarket.com/products/curve-shapes) | [Gumroad](https://mad-pony-interactive.gumroad.com/l/zttlm)
+### Purchase @ [Blender Market](https://www.blendermarket.com/products/curve-shapes) | [Gumroad](https://mad-pony-interactive.gumroad.com/l/zttlm) | [Flipped Normals](https://flippednormals.com/product/curve-shapes-43255)

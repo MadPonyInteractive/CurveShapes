@@ -5,10 +5,12 @@ color_scheme: "mpi"
 
 # Aux links for the upper right navigation
 aux_links:
-  "Buy on Gumroad":
+  "Gumroad":
     - "https://mad-pony-interactive.gumroad.com/l/zttlm"
-  "Buy on Blender Market":
+  "Blender Market":
     - "https://www.blendermarket.com/products/curve-shapes"
+  "Flipped Normals":
+    - "https://flippednormals.com/product/curve-shapes-43255"
   "GitHub":
     - "//github.com/MadPonyInteractive/CurveShapes"
 
