@@ -11,3 +11,6 @@ nav_order: 9
 
 ## Release log for V.3.0.2
 * Fixed a bug that when re-creating a deleted mesh from a control curve the modifier values would reset
+
+## Release log for V.3.0.3
+* Fixed a bug introduced in V.3.0.2 that would stop Curve Shapes from starting in Blender versions bellow 4.1
