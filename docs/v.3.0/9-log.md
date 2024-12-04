@@ -14,3 +14,6 @@ nav_order: 9
 
 ## Release log for V.3.0.3
 * Fixed a bug introduced in V.3.0.2 that would stop Curve Shapes from starting in Blender versions bellow 4.1
+
+## Release log for V.3.0.4
+* Fixed a bug that would prevent the addon from being enabled.
